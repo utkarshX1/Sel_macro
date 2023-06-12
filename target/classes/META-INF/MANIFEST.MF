@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 20
+Main-Class: Sel_macro.src.test.java.sel_java.MacroTest
+Created-By: Maven Integration for Eclipse
+
